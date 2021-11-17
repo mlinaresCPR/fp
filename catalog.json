@@ -23,7 +23,7 @@
     "name": "The Legend of Zelda",
     "description":"The Legend of Zelda (ゼルダの伝説でんせつ Zeruda no Densetsu?) es una serie de videojuegos de acción-aventura\ncreada por los diseñadores japoneses Shigeru Miyamoto y Takashi Tezuka, y desarrollada por Nintendo, empresa\nque también se encarga de su distribución internacional. Su trama por lo general describe las heroicas\naventuras del joven guerrero Link, que debe enfrentarse a peligros y resolver acertijos para ayudar a la Princesa\nZelda a derrotar a Ganondorf y salvar su hogar, el reino de Hyrule.\n\nExtraido de: https://es.wikipedia.org/wiki/The_Legend_of_Zelda",
     "image_url": "https://raw.githubusercontent.com/mlinaresCPR/fp/master/TLOZ_RS.png"
-  }
+  },
   {
     "name": "Super Mario",
     "description":"Super Mario (スーパーマリオ Sūpā Mario?) es una serie de videojuegos de plataformas creados\npor la empresa desarrolladora Nintendo y protagonizados por su mascota, Mario.\nTambién conocida como la serie Super Mario Bros. (スーパーマリオブラザーズ Sūpā Mario Burazāzu?).\no simplemente la serie Mario (マ リ オ?), es la serie principal de la franquicia de Mario.\nSe ha lanzado al menos un videojuego de Super Mario para todas las consolas de videojuegos de Nintendo.\n\nExtraido de: https://es.wikipedia.org/wiki/Super_Mario",
@@ -48,8 +48,8 @@
     "name": "The Legend of Zelda",
     "description":"The Legend of Zelda (ゼルダの伝説でんせつ Zeruda no Densetsu?) es una serie de videojuegos de acción-aventura\ncreada por los diseñadores japoneses Shigeru Miyamoto y Takashi Tezuka, y desarrollada por Nintendo, empresa\nque también se encarga de su distribución internacional. Su trama por lo general describe las heroicas\naventuras del joven guerrero Link, que debe enfrentarse a peligros y resolver acertijos para ayudar a la Princesa\nZelda a derrotar a Ganondorf y salvar su hogar, el reino de Hyrule.\n\nExtraido de: https://es.wikipedia.org/wiki/The_Legend_of_Zelda",
     "image_url": "https://raw.githubusercontent.com/mlinaresCPR/fp/master/TLOZ_RS.png"
-  }
-{
+  },
+  {
     "name": "Super Mario",
     "description":"Super Mario (スーパーマリオ Sūpā Mario?) es una serie de videojuegos de plataformas creados\npor la empresa desarrolladora Nintendo y protagonizados por su mascota, Mario.\nTambién conocida como la serie Super Mario Bros. (スーパーマリオブラザーズ Sūpā Mario Burazāzu?).\no simplemente la serie Mario (マ リ オ?), es la serie principal de la franquicia de Mario.\nSe ha lanzado al menos un videojuego de Super Mario para todas las consolas de videojuegos de Nintendo.\n\nExtraido de: https://es.wikipedia.org/wiki/Super_Mario",
     "image_url": "https://raw.githubusercontent.com/mlinaresCPR/fp/master/Super%20Mario_RS.png"
